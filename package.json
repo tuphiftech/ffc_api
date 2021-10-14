@@ -12,5 +12,11 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Phi Anh Tu",
-	"description": "Which helps me learn BE step-by-step"
+	"description": "Which helps me learn BE step-by-step",
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"practice",
+		"play"
+	]
 }
