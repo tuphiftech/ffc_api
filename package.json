@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Phi Anh Tu"
+	"author": "Phi Anh Tu",
+	"description": "Which helps me learn BE step-by-step"
 }
